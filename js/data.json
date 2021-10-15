@@ -1,0 +1,33 @@
+{
+    "toy" : [
+        {
+            "name" : "moviflex",
+            "decs" : "날짜를 기반으로 <br> 박스오피스 순위를 나타내줍니다",
+            "decs1" : "-영화 API(영화순위), 네이버 검색(포스터)를 fetch 하여 구현 ",
+            "adress" : "https://pool1129.github.io/project01_findMe/",
+            "mockup" : "img/mobile.png",
+            "gif" : "img/crimemap.gif",
+            "size" : "desktop"
+        },
+
+        {
+            "name" : "find me",
+            "decs" : "마우스를 이용해 <br> 사진의 정답을 찾는 게임입니다.",
+            "decs1" : "-Vanilla JS와 HTML, CSS를 사용해 구현",
+            "adress" : "https://pool1129.github.io/project01_findMe/",
+            "mockup" : "img/desktop.png",
+            "gif" : "img/findme.gif",
+            "size" : "desktop"
+        },
+
+        {
+            "name" : "crime map",
+            "decs" : "범죄 유형별 <br> 지역 범죄 발생 건수를 나타내 줍니다.",
+            "decs1" : "-REACT JS와 API를 활용해 구현",
+            "adress" : "https://pool1129.github.io/project02_crimeMap/",
+            "mockup" : "img/mobile.png",
+            "gif" : "img/crimemap.gif",
+            "size" : "mobile"
+        }
+    ]
+}
